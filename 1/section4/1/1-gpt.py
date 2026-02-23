@@ -24,5 +24,4 @@ while lt <= rt:
     else:
         rt = mid - 1
 
-# Todo: 결과 출력
 print(ans)
